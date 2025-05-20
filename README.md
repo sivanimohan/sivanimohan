@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivani Mohan</h1>
 <h3 align="center">21 year old Python Dev🐍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanimohan&label=Profile%20views&color=0e75b6&style=flat" alt="sivanimohan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanimohan&label=Profile%20views&color=0e75b6&style=plastic" alt="sivanimohan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivanimohan" alt="sivanimohan" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Bears 🐻, Beatles 🎶, Battlestar Galactica 🚀**
 
-- 📫 How to reach me **sivanimohanvv@gmail.com**
+- 📫 How to reach me **✉️sivanimohanvv@gmail.com 📞**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/176IVpNhBebSB7obMLLHFVosTtIXbTT3d](https://drive.google.com/drive/folders/176IVpNhBebSB7obMLLHFVosTtIXbTT3d)
 
