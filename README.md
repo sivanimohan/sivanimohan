@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivanimohan" alt="sivanimohan" /></a> </p>
 
-- 🌱 Currently tinkering with **AI, ML, and Data Science—teaching machines to think so I don’t have to 😉.**
+- 🌱 Currently tinkering with **AI, ML, and Data Science - teaching machines to think so I don’t have to 😉.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sivanimohan](https://github.com/sivanimohan)
 
-- 💬 Ask me about **Bears 🐻, Beatles 🎶, Battlestar Galactica 🚀**
+- 💬 Ask me about **Bears 🐻, Beets 🌱, Battlestar Galactica 🚀**
 
 - 📫 How to reach me **✉️sivanimohanvv@gmail.com 📞**
 
