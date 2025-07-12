@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **✉️sivanimohanvv@gmail.com 📞**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/176IVpNhBebSB7obMLLHFVosTtIXbTT3d](https://drive.google.com/drive/folders/176IVpNhBebSB7obMLLHFVosTtIXbTT3d)
-
 - ⚡ Fun fact **There is a parallel universe out there where you are actually employed👾**
 
 <h3 align="left">Connect with me:</h3>
